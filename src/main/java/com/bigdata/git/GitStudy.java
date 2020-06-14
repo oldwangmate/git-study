@@ -15,6 +15,5 @@ public class GitStudy {
     @GetMapping("/")
     public String getGit(){
         return "hello GitHup! 2222 oldwang aaa";
-
     }
 }
