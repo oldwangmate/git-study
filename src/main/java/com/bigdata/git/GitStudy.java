@@ -14,7 +14,7 @@ public class GitStudy {
 
     @GetMapping("/")
     public String getGit(){
-        return "hello Git!!! -v0.1 --master --0.8 --merge合并分支处理 --oldwang  ";
+        return "hello GitHup!";
 
     }
 }
